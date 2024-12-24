@@ -3,7 +3,8 @@ Attribute Information: - MedInc median income in block group - HouseAge median h
 
 This dataset was derived from the 1990 U.S. census, using one row per cen us block group. A block group is the smallest geographical unit for which the .S. Census Bureau publishes sample data (a block group typically has a popul tion of 600 to 3,000 people).
 
-A household is a group of people residing within a home. Since the average number of rooms and bedrooms in this dataset are provided per househod, these columns may take surprisingly large values for block groups with few ouseholds and many empty houses, such as vacation resorts.ongitude
+A household is a group of people residing within a home. Since the average number of rooms and bedrooms in this dataset are provided per househod, these columns may take surprisingly large values for block groups with few ouseholds and many empty houses, such as vacation resorts.ongitude.
+
 skills demonstrated
 -EDA, feature engineering(interaction),feature transformation(logarithimic),outlier & skewness handling, Feature selection using P_values,VIF & RFECV,linear regression, ridge regression, decision tree 
 ensemble methods, hyerparameter tuning.
